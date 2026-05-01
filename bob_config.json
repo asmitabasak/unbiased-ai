@@ -1,0 +1,14 @@
+{
+  "agent_name": "Bob-Fairness-Orchestrator",
+  "version": "1.0.4",
+  "capabilities": [
+    "natural_language_explanation",
+    "bias_mitigation_strategy_generation",
+    "compliance_report_export"
+  ],
+  "integration_points": {
+    "frontend": "Vercel-Dashboard",
+    "backend": "Gemini-API-Bridge",
+    "reasoning": "IBM-Bob-Dev-Engine"
+  }
+}
